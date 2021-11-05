@@ -1,3 +1,11 @@
+# React Todo App using Firestore database hosted on Google Firebase
+
+Take a look at the website live at : https://todoapp-df011.web.app/
+This is a follow up project which was taught by Clever Programmer on Youtube.
+In this project, I learnt how to implement CRUD operations in a React Project with Google Firebase platform.
+I also learnt how to implement some React concepts such as hooks, states and props in a real world project.
+Hats-off to the mentor...I really learned a lot.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
